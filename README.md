@@ -28,12 +28,15 @@ An intuitive and responsive **Car Rental Web Application** that lets users searc
    git clone https://github.com/rniranjana992/CarRentalApp.git
    
 2. **Navigate into the directory**
+   ```bash
    cd CarRentalApp
 
-3. **Install dependencies**
+4. **Install dependencies**
+   ```bash
    npm install
    
-4. **Run the development server**
+6. **Run the development server**
+   ```bash
    npm start
 
-5. **Open your browser at http://localhost:3000 (or appropriate port).**
+8. **Open your browser at http://localhost:3000 (or appropriate port).**
